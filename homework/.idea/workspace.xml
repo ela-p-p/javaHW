@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad77b6e4-ffe4-4166-ae2e-6e496e05965d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/101-Stu_ES5Warmup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/101-Stu_ES5Warmup/Unsolved/var-example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/102-Ins_LetConstIntro/Solved/let-const-intro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/102-Ins_LetConstIntro/Solved/let-const-scope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/103-Stu_RedoWarmup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/103-Stu_RedoWarmup/Unsolved/function-scoped.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/104-Stu_ES5Debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/104-Stu_ES5Debug/Solved/tacos-template-literals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/104-Stu_ES5Debug/Solved/tacos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/104-Stu_ES5Debug/Solved/tacos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/104-Stu_ES5Debug/Unsolved/tacos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/104-Stu_ES5Debug/Unsolved/tacos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/105-Stu_GameOfStrings/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/105-Stu_GameOfStrings/Unsolved/game-of-strings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/106-Stu_Arrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/106-Stu_Arrays/Unsolved/arrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/107-Ins_ArrowExample/Solved/arrows-intro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/107-Ins_ArrowExample/Solved/arrows-lexical-this.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/108-Ins_ObjectExample/destructure-intro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/108-Ins_ObjectExample/objects-ctd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/108-Stu_ArrowArrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/108-Stu_ArrowArrays/Unsolved/arrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/109-Stu_ObjDestruct/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/109-Stu_ObjDestruct/Solved/obj-destruct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/109-Stu_ObjDestruct/Unsolved/obj-destruct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/110-Stu_BabelSetup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/111-Ins_ES2015Modules/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/111-Ins_ES2015Modules/data/before0bj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/111-Ins_ES2015Modules/data/beforeRemove.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/111-Ins_ES2015Modules/data/beforeUniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/111-Ins_ES2015Modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/111-Ins_ES2015Modules/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/111-Ins_ES2015Modules/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/112-Stu_ES2015Modules/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/112-Stu_ES2015Modules/Unsolved/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/112-Stu_ES2015Modules/Unsolved/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/112-Stu_ES2015Modules/Unsolved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/112-Stu_ES2015Modules/Unsolved/spriteLogger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/112-Stu_ES2015Modules/Unsolved/sprites.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/113-Ins_Classes/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/113-Ins_Classes/Animal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/113-Ins_Classes/Vehicle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/113-Ins_Classes/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/114-Stu_ConstructorsToClasses/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/114-Stu_ConstructorsToClasses/Unsolved/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/114-Stu_ConstructorsToClasses/Unsolved/DigitalPal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/114-Stu_ConstructorsToClasses/Unsolved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/115-Stu_SpaceX/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/115-Stu_SpaceX/Unsolved/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/115-Stu_SpaceX/Unsolved/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_1/115-Stu_SpaceX/Unsolved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/11-Stu_PropsCalculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/11-Stu_PropsCalculator/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/11-Stu_PropsCalculator/Unsolved/src/components/Calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/11-Stu_PropsCalculator/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Images/01-Unfinished-Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Images/02-Finished-Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/MrKrabsCard/MrKrabsCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/MrKrabsCard/MrKrabsCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/MrKrabsCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/SpongeBobCard/SpongeBobCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/SpongeBobCard/SpongeBobCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/SpongeBobCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/SquidwardCard/SquidwardCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/SquidwardCard/SquidwardCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/SquidwardCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/Title/Title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/Title/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/Title/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/Wrapper/Wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/Wrapper/Wrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/components/Wrapper/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/friends.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/12-Stu_PropsReview/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/13-Stu_ComponentMap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/13-Stu_ComponentMap/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/13-Stu_ComponentMap/Unsolved/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/13-Stu_ComponentMap/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/14-Ins_BasicState/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/14-Ins_BasicState/src/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/14-Ins_BasicState/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/15-Stu_DecrementCounter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/15-Stu_DecrementCounter/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/15-Stu_DecrementCounter/Unsolved/src/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/15-Stu_DecrementCounter/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/components/FriendCard/FriendCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/components/FriendCard/FriendCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/components/FriendCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/components/Wrapper/Wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/components/Wrapper/Wrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/components/Wrapper/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/friends.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/16-Stu_FriendRefactor/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/17-Ins_FormsDemo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/17-Ins_FormsDemo/src/components/Form/Form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/17-Ins_FormsDemo/src/components/Form/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/17-Ins_FormsDemo/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/17-Ins_FormsDemo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/18-Stu_FunWithForms/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/18-Stu_FunWithForms/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/18-Stu_FunWithForms/Unsolved/src/components/Form/Form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/18-Stu_FunWithForms/Unsolved/src/components/Form/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/18-Stu_FunWithForms/Unsolved/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/18-Stu_FunWithForms/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/10-Ins_PropsDemo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/10-Ins_PropsDemo/src/components/Alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/10-Ins_PropsDemo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/11-Stu_PropsCalculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/11-Stu_PropsCalculator/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/11-Stu_PropsCalculator/Unsolved/src/components/Calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/11-Stu_PropsCalculator/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Images/01-Unfinished-Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Images/02-Finished-Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/MrKrabsCard/MrKrabsCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/MrKrabsCard/MrKrabsCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/MrKrabsCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/SpongeBobCard/SpongeBobCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/SpongeBobCard/SpongeBobCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/SpongeBobCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/SquidwardCard/SquidwardCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/SquidwardCard/SquidwardCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/SquidwardCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/Title/Title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/Title/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/Title/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/Wrapper/Wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/Wrapper/Wrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/components/Wrapper/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/friends.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/12-Stu_PropsReview/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/13-Stu_ComponentMap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/13-Stu_ComponentMap/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/13-Stu_ComponentMap/Unsolved/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/13-Stu_ComponentMap/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/14-Ins_BasicState/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/14-Ins_BasicState/src/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/14-Ins_BasicState/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/15-Stu_DecrementCounter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/15-Stu_DecrementCounter/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/15-Stu_DecrementCounter/Unsolved/src/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/15-Stu_DecrementCounter/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/components/FriendCard/FriendCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/components/FriendCard/FriendCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/components/FriendCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/components/Wrapper/Wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/components/Wrapper/Wrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/components/Wrapper/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/friends.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/16-Stu_FriendRefactor/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/17-Ins_FormsDemo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/17-Ins_FormsDemo/src/components/Form/Form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/17-Ins_FormsDemo/src/components/Form/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/17-Ins_FormsDemo/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/17-Ins_FormsDemo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/18-Stu_FunWithForms/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/18-Stu_FunWithForms/Unsolved/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/18-Stu_FunWithForms/Unsolved/src/components/Form/Form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/18-Stu_FunWithForms/Unsolved/src/components/Form/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/18-Stu_FunWithForms/Unsolved/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/Activities/18-Stu_FunWithForms/Unsolved/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/assets/component-example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/assets/comptree.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/assets/css-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/assets/jsx-curly-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/assets/navbar-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/assets/props-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/assets/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/custom/components/PlaygroundContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/custom/components/ResetCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/custom/components/Underline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/custom/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/custom/theme/createTheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/custom/theme/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/custom/theme/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/presentation/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Day_3/react-recap/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Homework/homework_instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Project_Start/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_19/Project_Start/SystemTimelineChart.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/client/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/07-Ins_Mern/create-react-express/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Images/01-RecipeLog.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Images/02-RecipeIncomplete.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Images/03-RecipeList.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Button/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Button/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Grid/Col.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Grid/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Grid/Row.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Grid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Input/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Input/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Jumbotron/Jumbotron.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Jumbotron/Jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Jumbotron/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Nav/Nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Nav/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Nav/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/RecipeList/RecipeList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/RecipeList/RecipeListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/RecipeList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Thumbnail/Thumbnail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Thumbnail/Thumbnail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/components/Thumbnail/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/client/src/utils/API.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/routes/apiRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/08-Stu_Recipes/Unsolved/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/DeleteBtn/DeleteBtn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/DeleteBtn/DeleteBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/DeleteBtn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Form/FormBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Form/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Form/TextArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Grid/Col.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Grid/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Grid/Row.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Grid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Jumbotron/Jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Jumbotron/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/List/List.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/List/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/List/ListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/List/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Nav/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/components/Nav/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/pages/Books/Books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/pages/Books/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/client/src/utils/API.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/controllers/booksController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/models/book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/models/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/routes/api/books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/routes/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/scripts/seedDB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Solved/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/DeleteBtn/DeleteBtn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/DeleteBtn/DeleteBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/DeleteBtn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Form/FormBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Form/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Form/TextArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Grid/Col.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Grid/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Grid/Row.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Grid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Jumbotron/Jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Jumbotron/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/List/List.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/List/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/List/ListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/List/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Nav/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/components/Nav/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/pages/Books/Books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/pages/Books/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/client/src/utils/API.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/controllers/booksController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/models/book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/models/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/routes/api/books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/routes/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/scripts/seedDB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/09-Stu_AJAXBooks/Unsolved/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/DeleteBtn/DeleteBtn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/DeleteBtn/DeleteBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/DeleteBtn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Form/FormBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Form/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Form/TextArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Grid/Col.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Grid/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Grid/Row.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Grid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Jumbotron/Jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Jumbotron/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/List/List.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/List/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/List/ListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/List/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Nav/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/components/Nav/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/pages/Books/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/client/src/utils/API.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/controllers/booksController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/models/book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/models/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/routes/api/books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/routes/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/scripts/seedDB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Solved/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/DeleteBtn/DeleteBtn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/DeleteBtn/DeleteBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/DeleteBtn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Form/FormBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Form/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Form/TextArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Grid/Col.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Grid/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Grid/Row.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Grid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Jumbotron/Jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Jumbotron/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/List/List.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/List/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/List/ListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/List/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Nav/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/components/Nav/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/pages/Books/Books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/pages/Books/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/client/src/utils/API.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/controllers/booksController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/models/book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/models/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/routes/api/books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/routes/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/scripts/seedDB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/10-Stu_AJAXFormDelete/Unsolved/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/DeleteBtn/DeleteBtn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/DeleteBtn/DeleteBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/DeleteBtn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Form/FormBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Form/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Form/TextArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Form/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Grid/Col.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Grid/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Grid/Row.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Grid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Jumbotron/Jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Jumbotron/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/List/List.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/List/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/List/ListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/List/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Nav/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/components/Nav/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/pages/Books/Books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/pages/Books/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/pages/Detail/Detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/pages/Detail/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/pages/NoMatch/NoMatch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/pages/NoMatch/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/client/src/utils/API.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/controllers/booksController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/models/book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/models/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/routes/api/books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/routes/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/scripts/seedDB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/11-Stu_ReactRouter/Unsolved/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/Activities/12-Stu_Deployment/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/.netlify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/conditional1-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/conditional2-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/mysql.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/node.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/onchange-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/react-router-snippet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/assets/thumbs-up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/custom/components/PlaygroundContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/custom/components/ResetCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/custom/components/Underline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/custom/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/custom/theme/createTheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/custom/theme/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/custom/theme/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/presentation/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Day_2/SlideShow/react-review/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Homework/HW_Assignment.bmml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Homework/HW_Assignment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Homework/homework_instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_20/Project-Resources/Slide-Shows/FinalProject.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_21/Day_1/Activities/03-Ins_Arrays-Maps-Conditions-Demo/collections/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_21/Day_1/Activities/03-Ins_Arrays-Maps-Conditions-Demo/collections/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_21/Day_1/Activities/03-Ins_Arrays-Maps-Conditions-Demo/collections/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_21/Day_1/Activities/03-Ins_Arrays-Maps-Conditions-Demo/collections/HashMaps.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1079433902">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MealTracker" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="19" />
+          <entry key="sh" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="3" />
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="18" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2894" />
+          <entry key="sh" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="12" />
+          <entry key="JAVA" value="2894" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MealTracker/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MealTracker/Tracker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MealTracker/Meal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MealTracker/Food.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="39" column="95" selection-start-line="39" selection-start-column="95" selection-end-line="39" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MealTracker/Categories.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MealTracker/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="59" column="125" selection-start-line="59" selection-start-column="125" selection-end-line="59" selection-end-column="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Meal Tracker/run.sh" />
+        <option value="$PROJECT_DIR$/Meal Tracker/build.sh" />
+        <option value="$PROJECT_DIR$/Meal Tracker/Categories.java" />
+        <option value="$PROJECT_DIR$/Meal Tracker/Tracker.java" />
+        <option value="$PROJECT_DIR$/Meal Tracker/Test.java" />
+        <option value="$PROJECT_DIR$/MealTracker/Test.java" />
+        <option value="$PROJECT_DIR$/MealTracker/Meal.java" />
+        <option value="$PROJECT_DIR$/src/MealTracker/run.sh" />
+        <option value="$PROJECT_DIR$/MealTracker/Tracker.java" />
+        <option value="$PROJECT_DIR$/MealTracker/Categories.java" />
+        <option value="$PROJECT_DIR$/src/MealTracker/Meal.java" />
+        <option value="$PROJECT_DIR$/src/MealTracker/Food.java" />
+        <option value="$PROJECT_DIR$/src/MealTracker/Categories.java" />
+        <option value="$PROJECT_DIR$/src/MealTracker/Tracker.java" />
+        <option value="$PROJECT_DIR$/src/MealTracker/Test.java" />
+        <option value="$PROJECT_DIR$/src/MealTracker/User.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="603" />
+    <option name="y" value="12" />
+    <option name="width" value="809" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="MealTracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MealTracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538350328583" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="MealTracker" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ejpor\Desktop\Bootcamp\_repo\UTORON201803FSF5-Class-Repository-FSF\homework\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MealTracker.Test" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MealTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad77b6e4-ffe4-4166-ae2e-6e496e05965d" name="Default Changelist" comment="" />
+      <created>1538332890204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538332890204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.33116883" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.36006546" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33060557" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/homework.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/Food.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meal Tracker/MealTracker">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meal Tracker/MealTracker.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/Tracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MealTracker/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/Categories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealTracker/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MealTracker/Categories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MealTracker/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="59" column="125" selection-start-line="59" selection-start-column="125" selection-end-line="59" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MealTracker/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MealTracker/Tracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MealTracker/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MealTracker/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="39" column="95" selection-start-line="39" selection-start-column="95" selection-end-line="39" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
